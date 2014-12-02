@@ -1,0 +1,36 @@
+body 
+{
+	background-color: #4EB27D;
+	
+}
+
+h1 
+{
+	font-family:Schoolbell;
+	color:white;
+	text-align: center;
+	
+}
+
+#goggles 
+{
+	height: 200px;
+	width:300px;
+	margin-left: 40%;
+}
+
+#paragraph_box
+{
+	height: 200px;
+	width: 300px;
+}
+
+.box 
+{
+	background-color: #A186BE;
+	height: 200px;
+	width:300px;
+	margin-top: 5%;
+	border:2px dashed black;
+	
+}
