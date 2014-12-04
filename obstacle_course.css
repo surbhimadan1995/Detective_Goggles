@@ -17,20 +17,69 @@ h1
 	height: 200px;
 	width:300px;
 	margin-left: 40%;
+	margin-top: -3%;
+	position: absolute;
+	z-index: 1;
 }
 
-#paragraph_box
-{
-	height: 200px;
-	width: 300px;
-}
 
 .box 
 {
 	background-color: #A186BE;
-	height: 200px;
-	width:300px;
-	margin-top: 5%;
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	margin-top: 10%;
+	margin-left: 20%;
 	border:2px dashed black;
+	position: absolute;
+}
+
+#paragraph_box 
+{
+	margin-left: 5%;
+}
+
+#paragraph_box_2
+{
+	margin-left: 50%;
+}
+
+#paragraph_box_3
+{
+	margin-top: 30%;
+	margin-left: 27.5%;
+}
+
+#paragraph_box_4 
+{
+	margin-left: 72.5%;
+	margin-top: 30%;
+}
+
+
+.footprints {
+	height:240px;
+	width:61.2px;
+	-webkit-transform: rotate(115deg);
+	margin-left: 19%;
+	margin-top: 18%;
+	position: absolute;
+	z-index: 2;
 	
 }
+
+#prints_1 
+{
+	margin-left:45%;
+	-webkit-transform:rotate(55deg);
+}
+
+#prints_2 
+{
+	margin-left: 65%;
+	margin-top: 17%;
+}
+
+
+
