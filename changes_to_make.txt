@@ -1,0 +1,9 @@
+1.) Make circles slightly bigger so Goggles fits in (or make Goggles smaller, but probably want Goggles to be big enough to notice all the little details)
+2.) Change Goggles starting position and provide affordance/instruction (maybe in a box?) 
+3.) Could the instructions be put on screen as the detective enters into each circle? Maybe we can have a standard box (at the top left/right maybe?) where new instructions appear (this can be triggered from droppable) 
+
+4.) Crime scene #1 etc. titles below the circles
+5.) Choosing a new color when a location is visited
+
+
+Note: Everything looks really good right now!
