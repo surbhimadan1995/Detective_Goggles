@@ -4,6 +4,7 @@
 
 4.) Crime scene #1 etc. titles below the circles
 5.) Choosing a new color when a location is visited
+6.) We need all our text to conform a fixed design language -- i.e. what's the body text font we want?
 
 
 Note: Everything looks really good right now!
