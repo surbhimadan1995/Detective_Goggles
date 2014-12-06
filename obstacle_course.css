@@ -57,6 +57,22 @@ h1
 	margin-top: 30%;
 }
 
+#instructions_box
+{
+    margin-left: 73%;
+    background-color: #CEE3F6;
+    border: 2px solid black;
+    width: 300px;
+    height: 600px;
+}
+
+.instructions_text_header
+{
+   font-family: Lato;
+   font-size: 150%;
+   margin-left: 20%;
+   color: black;
+}
 
 .footprints {
 	height:240px;
