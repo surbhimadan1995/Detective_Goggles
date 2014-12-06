@@ -85,22 +85,40 @@ h1
 }
 
 .footprints {
-	height:240px;
-	width:61.2px;
-	-webkit-transform: rotate(115deg);
-	margin-left: 19%;
-	margin-top: 20%;
+	height:160px;
+	width:42.8px;
+	-webkit-transform: rotate(117deg);
+	margin-left: 22%;
+	margin-top: 22%;
 	position: absolute;
 	z-index: 3;
 	
 }
 
-#prints_1 
+#prints 
 {
-	margin-left:47%;
+	margin-left:40%;
 	-webkit-transform:rotate(55deg);
 }
 
+#prints_1
+{
+	margin-left: 45%;
+	margin-top: 20%;
+	-webkit-transform:rotate(55deg);
+}
+
+#prints_2
+{
+	margin-left: 26%;
+	margin-top: 24%;
+}
+
+#prints_3
+{
+	margin-left: 21%;
+	margin-top: 20%;
+}
 
 #link_tag 
 {
