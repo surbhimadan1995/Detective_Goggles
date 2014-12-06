@@ -75,6 +75,15 @@ h1
    color: black;
 }
 
+.instructions_text_body
+{
+    font-family: Lato;
+    margin-left: 8%;
+    margin-top: 55%;
+    font-size: 90%;
+    color: black;
+}
+
 .footprints {
 	height:240px;
 	width:61.2px;
