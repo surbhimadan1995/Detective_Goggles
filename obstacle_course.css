@@ -16,8 +16,8 @@ h1
 {
 	height: 200px;
 	width:300px;
-	margin-left: 25%;
-	margin-top: -3%;
+	margin-left: 5%;
+	margin-top: -9%;
 	position: absolute;
 	z-index: 1;
 }
@@ -60,6 +60,7 @@ h1
 #instructions_box
 {
     margin-left: 73%;
+    position:absolute;
     background-color: #CEE3F6;
     border: 2px solid black;
     width: 300px;
